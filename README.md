@@ -1,4 +1,4 @@
-# Vectorial
+#Factorial
 
 import java.util.Scanner;
 
